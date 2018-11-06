@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash", "Hash\Hash.csproj", "{6D72E10E-626B-46EB-8640-75DEDC528EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash", "Hash\Hash.csproj", "{6D72E10E-626B-46EB-8640-75DEDC528EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testhash", "testhash\testhash.csproj", "{517EBA34-3BDC-4F76-B5E1-6359E4BB100A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6D72E10E-626B-46EB-8640-75DEDC528EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D72E10E-626B-46EB-8640-75DEDC528EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D72E10E-626B-46EB-8640-75DEDC528EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517EBA34-3BDC-4F76-B5E1-6359E4BB100A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517EBA34-3BDC-4F76-B5E1-6359E4BB100A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517EBA34-3BDC-4F76-B5E1-6359E4BB100A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517EBA34-3BDC-4F76-B5E1-6359E4BB100A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
